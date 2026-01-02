@@ -1,0 +1,7 @@
+{
+  "name": "Desentupidora Barão",
+  "description": "Landing page profissional para Desentupidora Barão, especializada em desentupimento residencial e comercial em São Paulo e região.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
